@@ -1,0 +1,12 @@
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Domain.deps.json
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Domain.dll
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Domain\bin\Debug\net5.0\ref\MB.Domain.dll
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Domain.pdb
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.csproj.AssemblyReference.cache
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.AssemblyInfoInputs.cache
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.AssemblyInfo.cs
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.csproj.CoreCompileInputs.cache
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.dll
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Domain\obj\Debug\net5.0\ref\MB.Domain.dll
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.pdb
