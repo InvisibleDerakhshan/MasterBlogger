@@ -16,6 +16,10 @@ namespace MB.Domain.ArticleCategoryAgg
             CreationDate = DateTime.Now;
             Articles= new List<Article>();
         }
+        protected ArticleCategory()
+        {
+
+        }
 
         public long Id { get; private set; }
         public string Title { get; private set; }

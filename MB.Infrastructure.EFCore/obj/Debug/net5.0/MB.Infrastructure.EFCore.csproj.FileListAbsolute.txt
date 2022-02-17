@@ -2,7 +2,6 @@ M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\MB.Infrastructure.EFCore.runtimeconfig.json
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\MB.Infrastructure.EFCore.runtimeconfig.dev.json
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\MB.Infrastructure.EFCore.dll
-M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\ref\MB.Infrastructure.EFCore.dll
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\MB.Infrastructure.EFCore.pdb
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\MB.Domain.dll
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\MB.Domain.pdb
@@ -13,6 +12,9 @@ M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.EFCore\obj\Debug\net5.
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.EFCore\obj\Debug\net5.0\MB.Infrastructure.EFCore.csproj.CoreCompileInputs.cache
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.EFCore\obj\Debug\net5.0\MB.Infrastructure.EFCore.csproj.CopyComplete
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.EFCore\obj\Debug\net5.0\MB.Infrastructure.EFCore.dll
-M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.EFCore\obj\Debug\net5.0\ref\MB.Infrastructure.EFCore.dll
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.EFCore\obj\Debug\net5.0\refint\MB.Infrastructure.EFCore.dll
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.EFCore\obj\Debug\net5.0\MB.Infrastructure.EFCore.pdb
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.EFCore\obj\Debug\net5.0\MB.Infrastructure.EFCore.genruntimeconfig.cache
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.EFCore\obj\Debug\net5.0\ref\MB.Infrastructure.EFCore.dll
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\MB.Application.Contracts.dll
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\MB.Application.Contracts.pdb

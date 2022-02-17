@@ -1,6 +1,5 @@
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.Core.deps.json
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.Core.dll
-M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\ref\MB.Infrastructure.Core.dll
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.Core.pdb
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Application.Contracts.dll
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Application.dll
@@ -17,5 +16,6 @@ M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.csproj.CoreCompileInputs.cache
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.csproj.CopyComplete
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.dll
-M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\ref\MB.Infrastructure.Core.dll
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\refint\MB.Infrastructure.Core.dll
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.pdb
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\ref\MB.Infrastructure.Core.dll
