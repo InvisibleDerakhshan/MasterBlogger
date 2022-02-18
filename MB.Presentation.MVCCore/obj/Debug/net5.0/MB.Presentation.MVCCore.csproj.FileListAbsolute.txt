@@ -83,3 +83,4 @@ M:\INVISIBLE\source\repos\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.genruntimeconfig.cache
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\ref\MB.Presentation.MVCCore.dll
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleManagement\List.cshtml.g.cs
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleManagement\Create.cshtml.g.cs
