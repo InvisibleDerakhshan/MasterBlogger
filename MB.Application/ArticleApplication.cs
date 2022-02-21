@@ -21,7 +21,7 @@ namespace MB.Application
         {
             var article =_articlerepository.Get(id);
             article.Activate();
-            _articlerepository.Save();
+            _articlerepository.Save(); 
         }
 
         public void Create(CreateArticle command)
