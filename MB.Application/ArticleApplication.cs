@@ -17,6 +17,13 @@ namespace MB.Application
             _articlerepository = articlerepository;
         }
 
+        public void Activate(long id)
+        {
+            var article =_articlerepository.Get(id);
+            article.Activate();
+            _articlerepository.Save();
+        }
+
         public void Create(CreateArticle command)
         {;
             var article = new Article(command.Title, command.ShortDescription, command.Image,
@@ -51,5 +58,14 @@ namespace MB.Application
         {
            return _articlerepository.GetList();
         }
+
+        public void Remove(long id)
+        {
+            var article = _articlerepository.Get(id);
+            article.Remove();
+            _articlerepository.Save();
+        }
+
+        
     }
 }
