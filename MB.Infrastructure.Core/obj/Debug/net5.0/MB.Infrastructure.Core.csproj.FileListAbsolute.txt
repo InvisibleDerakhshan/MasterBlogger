@@ -19,3 +19,5 @@ M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\refint\MB.Infrastructure.Core.dll
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.pdb
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\ref\MB.Infrastructure.Core.dll
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.Query.dll
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.Query.pdb

@@ -1,7 +1,7 @@
+using System.Collections.Generic;
 using MB.Application.Contracts.Article;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using System.Collections.Generic;
 
 namespace MB.Presentation.MVCCore.Areas.Administrator.Pages.ArticleManagement
 {
@@ -17,7 +17,7 @@ namespace MB.Presentation.MVCCore.Areas.Administrator.Pages.ArticleManagement
 
         public void OnGet()
         {
-            Articles=_articleApplication.GetList();
+            Articles = _articleApplication.GetList();
         }
 
         public RedirectToPageResult OnPostRemove(long id)

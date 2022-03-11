@@ -5,14 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Pages\" />
-    <Folder Include="wwwroot\vendor\font-awesome\less\" />
-    <Folder Include="wwwroot\vendor\font-awesome\scss\" />
+    <ProjectReference Include="..\MB.Application.Contracts\MB.Application.Contracts.csproj" />
+    <ProjectReference Include="..\MB.Infrastructure.Core\MB.Infrastructure.Core.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MB.Application.Contracts\MB.Application.Contracts.csproj" />
-    <ProjectReference Include="..\MB.Infrastructure.Core\MB.Infrastructure.Core.csproj" />
+    <Folder Include="wwwroot\vendor\font-awesome\less\" />
+    <Folder Include="wwwroot\vendor\font-awesome\scss\" />
   </ItemGroup>
 
 </Project>

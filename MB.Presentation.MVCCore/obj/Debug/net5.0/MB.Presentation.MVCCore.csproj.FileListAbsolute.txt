@@ -85,3 +85,11 @@ M:\INVISIBLE\source\repos\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleManagement\List.cshtml.g.cs
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleManagement\Create.cshtml.g.cs
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleManagement\Edit.cshtml.g.cs
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\MB.Infrastructure.Query.dll
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\MB.Infrastructure.Query.pdb
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Pages\ArticleDetails.cshtml.g.cs
