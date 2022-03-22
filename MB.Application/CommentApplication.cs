@@ -12,7 +12,7 @@ namespace MB.Application
     {
         private readonly ICommentRepository _commentrepository;
 
-        public CommentApplication(ICommentRepository commentrepository)
+        public CommentApplication(ICommentRepository commentrepository )
         {
             _commentrepository = commentrepository;
         }
