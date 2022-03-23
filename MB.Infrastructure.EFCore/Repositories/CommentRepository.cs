@@ -7,13 +7,19 @@ using System.Threading.Tasks;
 
 namespace MB.Infrastructure.EFCore.Repositories
 {
-    public  class CommentRepositories : ICommentRepository
+    public  class CommentRepository : ICommentRepository
     {
         private readonly MasterBloggerContext _context;
 
-        public CommentRepositories(MasterBloggerContext context)
+        public CommentRepository(MasterBloggerContext context)
         {
             _context = context;
+        }
+
+        public void CreateAndSave(Comment entity)
+        {
+            _context.Comments.Add(entity);
+            _context.SaveChanges();
         }
     }
 }
