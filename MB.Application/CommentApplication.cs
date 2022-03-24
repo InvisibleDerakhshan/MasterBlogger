@@ -23,6 +23,20 @@ namespace MB.Application
             _commentrepository.CreateAndSave(comment);
         }
 
+        public void Cancel(long id)
+        {
+        var comment = _commentrepository.Get(id);
+            comment.Cancel();
+            _commentrepository.Save();
+        }
+
+        public void Confirm(long id)
+        {
+            var comment = _commentrepository.Get(id);
+            comment.Confirm();
+            _commentrepository.Save();
+        }
+
         public List<CommentViewModel> GetList()
         {
           return _commentrepository.GetList();
