@@ -93,3 +93,4 @@ M:\INVISIBLE\source\repos\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
 M:\INVISIBLE\source\repos\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Pages\ArticleDetails.cshtml.g.cs
+M:\INVISIBLE\source\repos\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\CommentManagement\List.cshtml.g.cs
